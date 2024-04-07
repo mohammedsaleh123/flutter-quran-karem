@@ -39,7 +39,6 @@ class _QuranViewState extends State<QuranView> {
       itemCount: quran.totalPagesCount,
       itemBuilder: (context, index) {
         final int surahNumber = quran.getPageData(index + 1)[0]['surah'];
-        print(surahNumber);
         return Scaffold(
             body: SafeArea(
           child: GestureDetector(
