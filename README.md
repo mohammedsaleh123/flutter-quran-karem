@@ -1,6 +1,13 @@
-# qurankarem
+# flutter quran karem
 
-A new Flutter project.
+A Quran Flutter project for read the holy quran and automatic save last bookmark.
+
+![Screenshot_٢٠٢٤-٠٢-٢٧-١٧-٣١-٤٦-٥٧٠_com example qurankarem](https://github.com/mohammedsaleh123/flutter-quran-karem/assets/145376248/ca498b65-139f-40c2-835f-fc7bbf1f041c)
+
+![Screenshot_٢٠٢٤-٠٢-٢٧-١٧-٣١-٥٠-٥٠٠_com example qurankarem](https://github.com/mohammedsaleh123/flutter-quran-karem/assets/145376248/b1c458f4-f98e-4012-b075-715c690a6c08)
+
+![Uploading Screenshot_٢٠٢٤-٠٢-٢٧-١٧-٣١-٥٤-٤٧٢_com.example.qurankarem.jpg…]()
+
 
 ## Getting Started
 
