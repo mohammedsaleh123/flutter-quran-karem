@@ -40,8 +40,6 @@ dependencies:
   just_audio: ^0.9.36
   quran: ^1.2.3
   sqflite: ^2.3.2
-  advance_pdf_viewer_fork: ^2.0.0
-  arabic_numbers: ^1.0.0
   flutter_screenutil: ^5.9.0
   flutter_svg: ^2.0.10+1
 
